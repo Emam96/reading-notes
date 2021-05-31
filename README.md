@@ -33,7 +33,7 @@
      ![clear goal](https://assets-global.website-files.com/5b5aa355afe474a8b1329a37/5d0a6f7c1232ba1207c4a7f0_HR%20goals%20%401x.jpg)
 
 
-   It is unrealistic to say that you should always stay calm and be ignoratnt to any bad thing happens to you, what we are trying to say that you should try to learn from those
+   It is unrealistic to say that you should always stay calm and be ignorant to any bad thing happens to you, what we are trying to say that you should try to learn from those
    events that might occur and use them to stack some experience and new ways to prevent or avoid them next time, its simply what makes progress.
  
    &nbsp;
