@@ -27,6 +27,10 @@ http: //github. com - it will make a link automaticlly
 
 [ GitHub ] ( http://github.com)    will appear [GitHub](http://github.com)  
 
+### IMAGES
+
+you can add images by using this code `![ ] ( )`  the image ALT goes between [] and the URL for the image path goes between ().
+
 
 ## GITHUB PAGES AND THEMES 
 
@@ -41,4 +45,30 @@ GitHub Pages are public web pages for users, organizations, and repositories, th
 #### KEY CONCEPTS 
 -  `markdown` :  is a lightweight markup language for creating formatted text using a plain-text editor.
 -  `GitHub platform` : is a provider of Internet hosting for software development and version control using Git.
+
+
+
+
+
+
+
+ &nbsp; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+I have created this page as a part from my project using Github, Please visit my [profile](https://github.com/Emam96) and I will be more than happy to hear from you all.
 
