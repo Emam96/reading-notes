@@ -2,7 +2,7 @@
 
 
 **Markdown** is a lightweight markup language for creating formatted text using a plain-text editor.
-It has been characterised by an informal specification and a reference implementation for conversion to HTML and its used for styling all forms of writing on the **GitHub platform**.
+It has been characterized by an informal specification and a reference implementation for conversion to HTML and its used for styling all forms of writing on the **GitHub platform**.
 
 ## IMPLEMENTATIONS 
 
@@ -22,7 +22,7 @@ You can control the display of the document; formatting words as bold or italic:
 You can add a link for an external site by using these two methods: 
 
 
-http: //github. com - it will make a link automaticlly
+http: //github. com - it will make a link automatically
 
 
 [ GitHub ] ( http://github.com)    will appear [GitHub](http://github.com)  
