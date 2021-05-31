@@ -30,7 +30,7 @@
    
  *   Set goals and write a clear plan. 
 
-     ![clear goal](https://assets-global.website-files.com/5b5aa355afe474a8b1329a37/5d0a6f7c1232ba1207c4a7f0_HR%20goals%20%401x.jpg)
+     ![clear goal](https://www.parmetech.com/wp-content/uploads/2021/01/SMART-Goals-scaled.jpeg)
 
 
    It is unrealistic to say that you should always stay calm and be ignorant to any bad thing happens to you, what we are trying to say that you should try to learn from those
