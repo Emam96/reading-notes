@@ -34,7 +34,7 @@
  &nbsp;
  &nbsp;
    
- *   Be around good pepole. 
+ *   Be around good people. 
  
    ![good friends](https://cdni.iconscout.com/illustration/premium/thumb/friends-celebrating-christmas-3601056-3006965.png)
    
