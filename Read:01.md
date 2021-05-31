@@ -42,6 +42,45 @@ GitHub Pages are public web pages for users, organizations, and repositories, th
 
 
 
+
+
+
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+You can see an example of a simple website made by using GitHub [HERE](https://emam96.github.io/reading-notes/).
+
+
+
+
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+
+
 #### KEY CONCEPTS 
 -  `markdown` :  is a lightweight markup language for creating formatted text using a plain-text editor.
 -  `GitHub platform` : is a provider of Internet hosting for software development and version control using Git.
@@ -58,17 +97,5 @@ GitHub Pages are public web pages for users, organizations, and repositories, th
  
  
  
- 
- 
-
-
-
-
-
-
-
-
-
-
-I have created this page as a part from my project using Github, Please visit my [profile](https://github.com/Emam96) and I will be more than happy to hear from you all.
+ I have created this page as a part from my project using Github, Please visit my [profile](https://github.com/Emam96) and I will be more than happy to hear from you all.
 
