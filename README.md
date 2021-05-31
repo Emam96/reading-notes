@@ -5,8 +5,14 @@
  
 **What I do to keep myself in a growth-mindset:** 
       
-      
-       Clearing my mind from bad concerns.         Be around good pepole            Set goals and write a clear plan. 
-       ![mind clearnce]()                          ![good frinds]()                                   ![clear goals]()
+ * Clearing my mind from bad concerns.          
+       
+   ![mind clearnce](https://f.hubspotusercontent00.net/hubfs/5217252/Anahana_Infographic3_WebGraphics-01-1.png)    
+   
+ *   Be around good pepole. 
+ 
+   ![good friends](https://cdni.iconscout.com/illustration/premium/thumb/friends-celebrating-christmas-3601056-3006965.png)
+   
+ *   Set goals and write a clear plan. 
 
-
+     ![clear goal](https://assets-global.website-files.com/5b5aa355afe474a8b1329a37/5d0a6f7c1232ba1207c4a7f0_HR%20goals%20%401x.jpg)
