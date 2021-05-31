@@ -17,4 +17,28 @@ You can control the display of the document; formatting words as bold or italic:
 * _You **can** combine them_ (_ You ** can** combine them_)
 
 
-### LINKS
+### LINKS 
+
+You can add a link for an external site by using these two methods: 
+
+
+http: //github. com - it will make a link automaticlly
+
+
+[ GitHub ] ( http://github.com)    will appear [GitHub](http://github.com)  
+
+
+## GITHUB PAGES AND THEMES 
+
+GitHub Pages are public web pages for users, organizations, and repositories, that are freely hosted on GitHub’s github.io domain or on a custom domain name of your choice. GitHub Pages are powered by Jekyll behind the scenes, so they’re a great way to host your Jekyll-powered website for free. 
+
+
+![github logo](https://www.sferalabs.cc/wp-content/uploads/github-logo.png)
+
+
+
+
+#### KEY CONCEPTS 
+-  `markdown` :  is a lightweight markup language for creating formatted text using a plain-text editor.
+-  `GitHub platform` : is a provider of Internet hosting for software development and version control using Git.
+
