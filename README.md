@@ -22,15 +22,46 @@
       
  * Clearing my mind from bad concerns.          
        
-   ![mind clearnce](https://f.hubspotusercontent00.net/hubfs/5217252/Anahana_Infographic3_WebGraphics-01-1.png)    
+   ![mind clearnce](https://f.hubspotusercontent00.net/hubfs/5217252/Anahana_Infographic3_WebGraphics-01-1.png)   
+   
+   
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
    
  *   Be around good pepole. 
  
    ![good friends](https://cdni.iconscout.com/illustration/premium/thumb/friends-celebrating-christmas-3601056-3006965.png)
    
+   
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+   
  *   Set goals and write a clear plan. 
 
      ![clear goal](https://www.parmetech.com/wp-content/uploads/2021/01/SMART-Goals-scaled.jpeg)
+     
+     
+  
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
 
 
    It is unrealistic to say that you should always stay calm and be ignorant to any bad thing happens to you, what we are trying to say that you should try to learn from those
