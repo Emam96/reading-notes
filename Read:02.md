@@ -68,7 +68,7 @@ This is the commands that we use to submit our progress, or "commting"
 
 &nbsp;
 
-
+Get back to [EMAM'S HOMEPAGE](https://emam96.github.io/reading-notes/)
 
 I have created this page as a part of my project using Github, Please visit my [profile](https://github.com/Emam96), I will be more than happy to hear from you all. ©
 
