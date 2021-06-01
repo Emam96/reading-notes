@@ -55,7 +55,7 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 | ------------------- | ------------------ |
 | GROWTH MINDSET      |[OPEN](https://emam96.github.io/reading-notes/LAB01)    |
 | MARKDOWN SUMMARY    |[OPEN](https://emam96.github.io/reading-notes/Read:01)  |
-| CLI AND GIT SUMMARY |[OPEN](Read:02.md)  |                       
+| CLI AND GIT SUMMARY |[OPEN](https://emam96.github.io/reading-notes/Read:02)  |                       
 
 
 &nbsp;
