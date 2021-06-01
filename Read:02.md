@@ -1,3 +1,4 @@
+
 #   GIT 
 This a summary of what I have learned during the class and by reading [this](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/) tutorial. 
 
@@ -27,7 +28,8 @@ We use git to upload our work  to a digital platform, If you asked me about it, 
 
 ## NAVIGATIONS 
 
--pwd: show the file path.
+
+- pwd: show the file path.
 - ls: list content 
 - ls -la: show all content (including hidden)
 - cd: change directory 
