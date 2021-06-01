@@ -17,6 +17,7 @@
 Hey there, Just call me Emam! I'm very excited to work with you all, I got no past experience with programming so you can call me a newbie, I work with windows (latest updates of course). I'm really happy to attend this class because it feels like we are a step closer into being a professional developers, as we introduced to GitHub earlier and how to write the markdowns, and now compliting with git. 
 
 
+
 &nbsp;
 
 
