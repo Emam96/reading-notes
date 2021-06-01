@@ -29,7 +29,7 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 | PROJECTS            | LINKS              |
 | ------------------- | ------------------ |
 | GROWTH MINDSET      |[OPEN](LAB01.MD)    |
-| MARKDOWN SUMMARY    |[OPEN](Read:01.md)  |
+| MARKDOWN SUMMARY    |[OPEN](https://emam96.github.io/reading-notes/Read:01)  |
 | CLI AND GIT SUMMARY |[OPEN](Read:02.md)  |                       
 
 
