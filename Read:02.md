@@ -6,7 +6,7 @@ This a summary of what I have learned during the class and by reading [this](htt
 
 First, we need to know what is GIT stands for,
 >  it is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
- [wikipedia](https://en.wikipedia.org/wiki/Git) 
+ [Wikipedia](https://en.wikipedia.org/wiki/Git) 
 
 
 
