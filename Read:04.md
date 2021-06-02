@@ -14,7 +14,7 @@ First, we need to know what is CSS stands for, it's simply a styling tool, while
 
 
 
-There 3 types that you can add CSS lines to the HTML file: 
+There are 3 types that you can add CSS lines to the HTML file: 
 - External CSS
 - Internal CSS
 - Inline CSS
