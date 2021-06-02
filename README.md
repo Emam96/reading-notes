@@ -57,7 +57,8 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 | MARKDOWN SUMMARY    |[OPEN](https://emam96.github.io/reading-notes/Read:01)  |
 | CLI AND GIT SUMMARY |[OPEN](https://emam96.github.io/reading-notes/Read:02)  |
 | CSS                 |[OPEN](https://emam96.github.io/reading-notes/Read:04)  |  
-| HTML                |[OPEN](https://emam96.github.io/reading-notes/Read:03)  |                     
+| HTML                |[OPEN](https://emam96.github.io/reading-notes/Read:03)  | 
+| My first CSS attempt|[OPEN](https://emam96.github.io/Digital-Art/)           |                     
 
 
 &nbsp;
