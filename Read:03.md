@@ -15,7 +15,7 @@ First, we need to know what is HTML stands for, it's a language that is used to 
 
 
 
-HTML codes use TAGS, tags are used to give a specifec form for a line on the webpage, any line between tags called ELEMENT, for example:
+HTML codes use TAGS, tags are used to give a specific form for a line on the webpage, any line between tags called ELEMENT, for example:
 - `<p>My name is Emam.</p>`
 &nbsp;   
 tags arent visible on the page so what will be showen is `My name is Emam`
