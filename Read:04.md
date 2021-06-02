@@ -24,20 +24,20 @@ There 3 types that you can add CSS lines to the HTML file:
 
 
 
-The External CSS means that you define a sole file just for the CSS so you can implement its command to the whole page, and you need to connect to the HTML page using:
+1. **The External CSS** means that you define a sole file just for the CSS so you can implement its command to the whole page, and you need to connect to the HTML page using:
 - `<link rel="stylesheet" href="mystyle.css">`
 
 
 &nbsp;
 
-The internal CSS means that you can assign a special unique style for one page and type it between the HTML code using `<style> `
+2. **The internal CSS** means that you can assign a special unique style for one page and type it between the HTML code using `<style> `
 
 
 
 &nbsp;
 
 
-The Inline CSS allows you to assign one single element with some special attributes by adding in inside the same tag, for example: 
+3. **The Inline CSS** allows you to assign one single element with some special attributes by adding in inside the same tag, for example: 
 - <h1 style="color:blue;text-align:center;">This is a heading</h1>
 
 &nbsp;
