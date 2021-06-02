@@ -39,7 +39,7 @@ There are 3 types that you can add CSS lines to the HTML file:
 
 
 3. **The Inline CSS** allows you to assign one single element with some special attributes by adding in inside the same tag, for example: 
-- <h1 style="color:blue;text-align:center;">This is a heading</h1>
+- `< h1 style="color:blue;text-align:center;">This is a heading </h1>`
 
 &nbsp;
 
