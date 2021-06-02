@@ -97,5 +97,5 @@ You can see an example of a simple website made by using GitHub [HERE](https://e
  
  
  
- I have created this page as a part from my project using Github, Please visit my [profile](https://github.com/Emam96) and I will be more than happy to hear from you all.
+ I have created this page as a part of my project using Github, Please visit my [profile](https://github.com/Emam96), I will be more than happy to hear from you all.      &nbsp;        &nbsp;       &nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      © Emam Shararah 2021
 
