@@ -41,9 +41,9 @@ There are 3 components that we need to know:
 
 
 -   **Data Types** JavaScript variables can hold many data types: numbers, strings, objects and more:
-- Numbers = var HQ = 66;
-- String = lastName = "Bond"; .... James Bond
-- An Object itself (can you belive that) = var x = {firstName:"John", lastName:"Doe"};
+1. Numbers = var HQ = 66;
+2. String = lastName = "Bond"; .... James Bond
+3. An Object itself (can you belive that) = var x = {firstName:"John", lastName:"Doe"};
 
 &nbsp;
 
