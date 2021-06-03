@@ -25,13 +25,13 @@ There are 3 components that we need to know:
 
 
 
-1. **Variables** means anything that can vary. JavaScript includes variables which hold the data value and it can be changed anytime. JavaScript uses reserved keyword var to declare a variable. A variable must have a unique name.
+-  **Variables** means anything that can vary. JavaScript includes variables which hold the data value and it can be changed anytime. JavaScript uses reserved keyword var to declare a variable. A variable must have a unique name.
 - `var y = 10;`
 
 
 &nbsp;
 
-2. **Identifiers** An identifier is a sequence of characters in the code that identifies a variable, function, or property. In JavaScript, identifiers are case-sensitive and can contain Unicode letters,and digits, but may not start with a digit.    
+-  **Identifiers** An identifier is a sequence of characters in the code that identifies a variable, function, or property. In JavaScript, identifiers are case-sensitive and can contain Unicode letters,and digits, but may not start with a digit.    
  &nbsp; 
   `x, y ,Y, emam maybe idk `
 
@@ -40,7 +40,7 @@ There are 3 components that we need to know:
 &nbsp;
 
 
-3.  **Data Types** JavaScript variables can hold many data types: numbers, strings, objects and more:
+-   **Data Types** JavaScript variables can hold many data types: numbers, strings, objects and more:
 - Numbers = var HQ = 66;
 - String = lastName = "Bond"; .... James Bond
 - An Object itself (can you belive that) = var x = {firstName:"John", lastName:"Doe"};
