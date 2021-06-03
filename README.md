@@ -58,7 +58,8 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 | CLI AND GIT SUMMARY |[OPEN](https://emam96.github.io/reading-notes/Read:02)  |
 | CSS                 |[OPEN](https://emam96.github.io/reading-notes/Read:04)  |  
 | HTML                |[OPEN](https://emam96.github.io/reading-notes/Read:03)  | 
-| My first CSS attempt|[OPEN](https://emam96.github.io/Digital-Art/)           |                     
+| My first CSS attempt|[OPEN](https://emam96.github.io/Digital-Art/)           |
+| JavaScript          |[OPEN](https://emam96.github.io/reading-notes/Read:06)  |                     
 
 
 &nbsp;
