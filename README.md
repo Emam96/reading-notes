@@ -45,9 +45,12 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 
 ##  MY PROJECTS UNTIL NOW: 
 
+
+
 &nbsp;
 
 
+&nbsp;
 
 
 
@@ -59,7 +62,14 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 | CSS                 |[OPEN](https://emam96.github.io/reading-notes/Read:04)  |  
 | HTML                |[OPEN](https://emam96.github.io/reading-notes/Read:03)  | 
 | My first CSS attempt|[OPEN](https://emam96.github.io/Digital-Art/)           |
-| JavaScript          |[OPEN](https://emam96.github.io/reading-notes/Read:06)  |                     
+| JavaScript          |[OPEN](https://emam96.github.io/reading-notes/Read:06)  |   
+| programming with JS |[OPEN](https://emam96.github.io/reading-notes/Read:07)  |   
+| LOOPS               |[OPEN](https://emam96.github.io/reading-notes/Read:08)  |                              
+
+
+
+
+
 
 
 &nbsp;
