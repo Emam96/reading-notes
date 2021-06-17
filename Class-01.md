@@ -75,12 +75,12 @@ here, we can call the class later in the style-sheet to make our adjustments.
 
 #### OTHER TAGS
 1. **<div>** div is a grouping tag that allows you to include many elements inside a block-level box. and it can take an attribute like an ID or a class. 
-2. **<a>** you can use this tag to create linksm for example,   &nbsp;    &nbsp;
+2.  **<a>**  you can use this tag to create linksm for example,   &nbsp;    &nbsp;
 
      &nbsp;
             `<a href="https://github.com/Emam96">Emam96</a>` will create a link to take you to my github page.           
   
-  3.    **<img>** here, you can add images to your page, by adding the image path you can make it appear on the page, the format should be like this: 
+  3.  **<img>** here, you can add images to your page, by adding the image path you can make it appear on the page, the format should be like this: 
   `<img src="url" alt="note">`         
   
 
@@ -152,7 +152,7 @@ The syntax is simple, for example, you want to assign a valude for a varibale:
 We connect our JavaScript code to the index by adding 
 
 &nbsp;
- `<script src="j s/ add-content .j s "></script>`  
+ `<script src="script.js"></script>`  
 
 anywhere within the HTML code, and the code will be performed at the same spot when viewing the page and running the program.
 
