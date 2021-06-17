@@ -3,7 +3,7 @@ This a summary of what I have learned reading Jon Duckett's material.
 
 We are learning how to design and develop web pages, but what are those web pages anyway?
 
->A web page (or webpage) is a hypertext document provided by a website and displayed to a user in a web browser. A website typically consists of many web pages linked together in a coherent fashion. The name "web page" is a metaphor of paper pages bound together into a book. The core element of a web page is one or more text files written in the Hypertext Markup Language (HTML). Many web pages also make use of JavaScript code for dynamic behavior and Cascading Style Sheets (CSS)                &nbsp;   
+>A web page (or webpage) is a hypertext document provided by a website and displayed to a user in a web browser. A website typically consists of many web pages linked together coherently. The name "web page" is a metaphor for paper pages bound together into a book. The core element of a web page is one or more text files written in the Hypertext Markup Language (HTML). Many web pages also make use of JavaScript code for dynamic behavior and Cascading Style Sheets (CSS)                &nbsp;   
  **Wikipedia**
 
 
@@ -33,14 +33,11 @@ First, we need to know what is HTML stands for, it's a language used to structur
 HTML codes use TAGS, tags are used to give a specific form for a line on the webpage, any line between tags called ELEMENT, for example:
 - `<p>My name is Emam.</p>`
 &nbsp;   
-tags arent visible on the page so what will be showen is `My name is Emam`
+tags arent visible on the page so what will be shown is `My name is Emam`
 
 Also, you can add Attributes to your tag, 
->Attributes provide additional information 
-about the contents of an element. They appear 
-on the opening tag of the element and are 
-made up of two parts: a name and a value, 
-separated by an equals sign.                                    
+>Attributes provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value, 
+separated by an equal sign.                                    
  &nbsp; 
   **Jon Duckett**
 
@@ -48,8 +45,8 @@ separated by an equals sign.
 
 In general, we will use the (ID) & (CLASS) Attributes the most, as we will use CSS to style the rest. 
 
-* `<p class="main somthing" > this is a main stuff <p>`
-here, we can call the class later in the style-sheet to make our adjustments.
+* `<p class="main something" > this is a main stuff <p>`
+here, we can call the class later in the style sheet to make our adjustments.
 
 
 
@@ -60,11 +57,11 @@ here, we can call the class later in the style-sheet to make our adjustments.
 
 #### MAIN TAGS
 
-1. **<!DOCTYPE html>** — it act as links to a set of rules that the HTML page had to follow to be considered good HTML.
+1. **<!DOCTYPE html>** — it acts as links to a set of rules that the HTML page had to follow to be considered good HTML.
 2. **<html></html>** — the <html> element. This element wraps all the content on the entire page.
 3. **<head></head>** — the <head> element. This element acts as a container for all the stuff you want to include on the HTML page that isn't the content you are showing to your page's viewers.
 4. **<title></title>** — the <title> element. This sets the title of your page, which is the title that appears in the browser tab the page is loaded in. 
-5. **<body></body>** — the <body> element. This contains all the content that you want to show to web users when they visit your page, and it contain another sub tags,header, main and footer.
+5. **<body></body>** — the <body> element. This contains all the content that you want to show to web users when they visit your page, and it contains other subtags, header, main, and footer.
 
 
 
@@ -74,14 +71,14 @@ here, we can call the class later in the style-sheet to make our adjustments.
 &nbsp;
 
 #### OTHER TAGS
-1. **<div>** div is a grouping tag that allows you to include many elements inside a block-level box. and it can take an attribute like an ID or a class. 
-2.  **<a>**  you can use this tag to create linksm for example,   &nbsp;    &nbsp;
+1.   **<div>** div is a grouping tag that allows you to include many elements inside a block-level box. and it can take an attribute like an ID or a class. 
+2.   **<a>**  you can use this tag to create linksm for example,   &nbsp;    &nbsp;
 
      &nbsp;
             `<a href="https://github.com/Emam96">Emam96</a>` will create a link to take you to my github page.           
   
-  3.  **<img>** here, you can add images to your page, by adding the image path you can make it appear on the page, the format should be like this: 
-  `<img src="url" alt="note">`         
+  3. **<img>** here, you can add images to your page, by adding the image path you can make it appear on the page, the format should be like this: 
+  `<img src="URL" alt="note">`         
   
 
 
@@ -102,7 +99,7 @@ We mentioned earlier that the (div) is a grouping element, what is that mean? we
 
 We  use elements such as `<div> <nav> <article> <header> <main> <footer> <aside>` to divide our page into blocks or sections, making it esier to style and to define special attributes to every block. &nbsp;
 
-Sometimes, we want to make the <nav> or the navagation bar to hold still on top even if we scrolled down the page, so we add the commands to a single section by using the elemnt <nav>.  
+Sometimes, we want to make the <nav> or the navigation bar to hold still on top even if we scrolled down the page, so we add the commands to a single section by using the element <nav>.  
 
 
 
@@ -121,15 +118,15 @@ JavaScript is one of many programming languages used with HTML and CSS to accomp
  
  JavaScript is implemented by lines of code, codes are intended to apply specific commands to run a program at the webpage, there are many types of those programs and can be triggered in many ways also. 
 
- JavaScript is wrote in a shape of scripts. 
+ JavaScript is written in the shape of scripts. 
  > A script is a series of instructions that a 
-computer can follow to achieve a goal       
+a computer can follow to achieve a goal       
  &nbsp; 
   **Jon Duckett** 
 
 You can set some steps and instructions and code each one to perform a certain task, using the right JavaScript syntax and an assigned group of objects with some Properties. 
 
-The syntax is simple, for example, you want to assign a valude for a varibale: 
+The syntax is simple, for example, you want to assign a value for a variable: 
 
 `var userName = "Emam";` 
 
@@ -137,9 +134,9 @@ The syntax is simple, for example, you want to assign a valude for a varibale:
 
 * **userName** is an **identifier**, it is a sequence of characters in the code that identifies a variable, function, or property. In JavaScript, identifiers are case-sensitive and can contain Unicode letters, and digits, but may not start with a digit.
 
-* **(=)**, is an **operator**,An operator performs some operation on single or multiple operands (data value) and produces a result.
+* **(=)**, is an **operator**, An operator performs some operation on single or multiple operands (data value) and produces a result.
 
-* You can see that we used **"Emam"** as a value to our variable, this value called string because it's written between quotation marks. Data types can include:  
+* You can see that we used **"Emam"** as a value to our variable, this value is called string because it's written between quotation marks. Data types can include:  
 
    1. Numbers = var HQ = 66;
 
