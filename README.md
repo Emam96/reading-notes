@@ -92,7 +92,7 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 
 | PROJECTS            | LINKS              |
 | ------------------- | ------------------ |
-|                     |[OPEN](#)           |
+|HTML & JS            |[OPEN](https://emam96.github.io/reading-notes/Class-01)|
 |                     |[OPEN](#)           |
 |                     |[OPEN](#)           |
 |                     |[OPEN](#)           |  
