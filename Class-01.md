@@ -57,11 +57,11 @@ here, we can call the class later in the style sheet to make our adjustments.
 
 #### MAIN TAGS
 
-1. **<!DOCTYPE html>** — it acts as links to a set of rules that the HTML page had to follow to be considered good HTML.
-2. **<html></html>** — the <html> element. This element wraps all the content on the entire page.
-3. **<head></head>** — the <head> element. This element acts as a container for all the stuff you want to include on the HTML page that isn't the content you are showing to your page's viewers.
-4. **<title></title>** — the <title> element. This sets the title of your page, which is the title that appears in the browser tab the page is loaded in. 
-5. **<body></body>** — the <body> element. This contains all the content that you want to show to web users when they visit your page, and it contains other subtags, header, main, and footer.
+1. **< !DOCTYPE html>** — it acts as links to a set of rules that the HTML page had to follow to be considered good HTML.
+2. **< html>< html/>** — the <html> element. This element wraps all the content on the entire page.
+3. **< head>< head/>** — the <head> element. This element acts as a container for all the stuff you want to include on the HTML page that isn't the content you are showing to your page's viewers.
+4. **< title>< title/>** — the <title> element. This sets the title of your page, which is the title that appears in the browser tab the page is loaded in. 
+5. **< body>< body/>** — the <body> element. This contains all the content that you want to show to web users when they visit your page, and it contains other subtags, header, main, and footer.
 
 
 
