@@ -24,15 +24,15 @@ So, adding text is like structuring the page, some tags affect the page structur
 #### closing tags 
 1. **headers**: headers work as titles for paragraphs and can, there are 6 levels of headers. the biggest one is **H1** down to **H6**.
 2. **paragraphs**: they are text boxes that you can add to the page.
-3. **<b>**: used to make a text bold
-4. **<i>**: used to make a text italic
-5. **<sup>**: used to contain characters that should be superscript such
+3. **< b >**: used to make a text bold
+4. **< i >**: used to make a text italic
+5. **< sup >**: used to contain characters that should be superscript such
 as the suffixes
-6. **<sub>**: used to contain characters that should
+6. **< sub >**: used to contain characters that should
 be subscript. 
 #### empty tags 
-1. **<br/>**: used to make a new line after the world it placed after. 
-2. **<hr/>**: used to create a break between paragraphs.
+1. **< br/ >** : used to make a new line after the world it placed after. 
+2. **< hr/ >** : used to create a break between paragraphs.
 
 
 
