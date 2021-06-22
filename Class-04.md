@@ -74,49 +74,16 @@ As you know, there a lot of devices to view the web these days, every device hav
 &nbsp;
 
 
-## JAVASCRIPT
-### ARRAYS
->An array is a special type of variable. It doesn't just store one value; it stores a list of values.
-&nbsp; 
-  **Jon Duckett**
-  
-As told, an array can hold multiple values for one variable, its useful and saves time. 
+## JAVASCRIPT FUNCTIONS
 
-`var colors; colors= ['white ' ,
-'black ' ,
-' green'];`
-The values are assigned to the array inside a pair of square brackets, and each value is
-separated by a comma.
+## Functions
 
-&nbsp;
+A JavaScript function is a container of set of code we call at specific time or for a particular task. and it can be called anywhere in the code by its assigned name or by trigging it with a button maybe.
 
-### LOOPS
+A function element are: 
+>function name(parameter)   {  &nbsp;return //task//;}
 
-Loops make it easier to repeat a function, for now, we will mention 2 types of loops. they are: 
-
-
-1. FOR loop  we use when we want to perform a task for a known number of times  `for ([initialExpression]; [conditionExpression]; [incrementExpression])
-  statement`
-
-
-
-
-2. WHILE loop we use this when we want to repeat the action for an unknown number of times `while (condition)
-  statement`
-
-
-&nbsp;
-
-### SWITCH statement
-
-
-
-&nbsp;
-
-**SWITCH statement** given a "switch value" and a number of "cases", a number of codes is ready to be executed if any of those cases values matched the input.
-
-![switch](https://images.slideplayer.com/19/5803798/slides/slide_2.jpg)
-&nbsp;
+then you just call it by its name! yeah its that simple
 
 
 
