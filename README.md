@@ -96,7 +96,7 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 |HTML TEXT & CSS & JS |[OPEN](https://emam96.github.io/reading-notes/Class-02)| 
 |    HTML BOXES & JS                 |[OPEN](https://emam96.github.io/reading-notes/Class-03)                                             |
 |HTML LINKS AND CSS LAYOUT & JS FUNCTIONS                     |[OPEN](https://emam96.github.io/reading-notes/Class-04)                                             |  
-|                     |[OPEN](#)                                              | 
+|HTML Images & CSS Color and Text                     |[OPEN](https://emam96.github.io/reading-notes/Class-05)                                              | 
 |                     |[OPEN](#)                                              |
 |                     |[OPEN](#)                                              |   
 |                     |[OPEN](#)                                              |   
