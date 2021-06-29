@@ -98,8 +98,8 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 |HTML LINKS AND CSS LAYOUT & JS FUNCTIONS                     |[OPEN](https://emam96.github.io/reading-notes/Class-04)                                             |  
 |HTML Images & CSS Color and Text                     |[OPEN](https://emam96.github.io/reading-notes/Class-05)                                              | 
 |Problem Domain & JS Objects and DOM                     |[OPEN](https://emam96.github.io/reading-notes/Class-06)                                              |
-|HTML Tables & JS Constructor Functions                     |[OPEN](https://emam96.github.io/reading-notes/Class-06)                                             |   
-|                     |[OPEN](#)                                              |   
+|HTML Tables & JS Constructor Functions                     |[OPEN](https://emam96.github.io/reading-notes/Class-07)                                             |   
+|HTML layout                     |[OPEN](https://emam96.github.io/reading-notes/Class-08)                                             |   
       
  
 
