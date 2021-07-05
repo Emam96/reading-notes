@@ -103,7 +103,7 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 |Forms and Events                                      |[OPEN](https://emam96.github.io/reading-notes/Class-09)      
 |JavaScript Debugging                                 |[OPEN](https://emam96.github.io/reading-notes/Class-10)
 |CSS Images, Videos and analytics                     |[OPEN](https://emam96.github.io/reading-notes/Class-11)
-
+|Chart.js & Canvas                                    |[OPEN](https://emam96.github.io/reading-notes/Class-12)
 
 &nbsp;
 
