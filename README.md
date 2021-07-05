@@ -90,7 +90,7 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 | ------------------- | ------------------|
 |Journey              |[OPEN](https://emam96.github.io/Temp/)                 |
 |About Me             |[OPEN](https://emam96.github.io/Class2Lab/)            |
-|    Merch            |[OPEN](https://emam96.github.io/onlineShop/)           |                                  |
+|Merch                |[OPEN](https://emam96.github.io/onlineShop/)           |                                  |
 |Frog                 |[OPEN](https://emam96.github.io/FROG/)                 |                            |  
 |Start Page           |[OPEN](https://emam96.github.io/START-PAGE/)           |                                   |
 |My Web               |[OPEN](https://emam96.github.io/TEST/)                 |                           |
