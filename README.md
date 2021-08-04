@@ -83,9 +83,11 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 
 &nbsp;
 
-| PROJECTS | LINKS |
-| -------- | ----- |
+| PROJECTS                                  | LINKS                                                    |
+| ----------------------------------------- | -------------------------------------------------------- | 
 | Introduction to React and Components       | [OPEN](https://emam96.github.io/reading-notes/lec01)   |
+
+
 &nbsp;
 
 &nbsp;
