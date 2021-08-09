@@ -87,6 +87,7 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 | ----------------------------------------- | -------------------------------------------------------- | 
 | Introduction to React and Components      | [OPEN](https://emam96.github.io/reading-notes/lec01)     |
 | State and Props                           | [OPEN](https://emam96.github.io/reading-notes/lec02)     |
+| Passing Functions as Props                | [OPEN](https://emam96.github.io/reading-notes/lec03)     |
 
 
 &nbsp;
