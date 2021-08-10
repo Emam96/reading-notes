@@ -103,16 +103,20 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 
 &nbsp;
 
-| PROJECTS   | LINKS                                        |
-| ---------- | -------------------------------------------- | 
-| Journey    | [OPEN](https://emam96.github.io/Temp/)       |
-| About Me   | [OPEN](https://emam96.github.io/Class2Lab/)  |
-| Merch      | [OPEN](https://emam96.github.io/onlineShop/) |     
-| Frog       | [OPEN](https://emam96.github.io/FROG/)       |     
-| Start Page | [OPEN](https://emam96.github.io/START-PAGE/) |     
-| My Web     | [OPEN](https://emam96.github.io/TEST/)       |     
-|            | [OPEN](#)                                    |
-|            | [OPEN](#)                                    |
+| PROJECTS      | LINKS                                              |
+| ----------    | -------------------------------------------------- | 
+| 201 project   | [OPEN](https://tee-corp.github.io/Wild-Tee/)       |
+| Journey       | [OPEN](https://emam96.github.io/Temp/)             |
+| About Me      | [OPEN](https://emam96.github.io/Class2Lab/)        |     
+| Frog          | [OPEN](https://emam96.github.io/FROG/)             |     
+| Start Page    | [OPEN](https://emam96.github.io/START-PAGE/)       |     
+| My Web        | [OPEN](https://emam96.github.io/TEST/)             |  
+|horned-beasts  | [OPEN](https://friendly-morse-08cf73.netlify.app/) |   
+|buss-mall      | [OPEN](https://emam96.github.io/bus-mall/)         |
+|Art Web        | [OPEN](https://emam96.github.io/Digital-Art/)      |
+|chocolate-pizza| [OPEN](https://emam96.github.io/chocolate-pizza/)  |
+|Pat's Cookies  | [OPEN](https://emam96.github.io/cookie-stand/#menu)|
+
 
 &nbsp;
 
