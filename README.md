@@ -97,6 +97,7 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 |  REST                                     | [OPEN](https://emam96.github.io/reading-notes/lec07)     |
 |  APIs                                     | [OPEN](https://emam96.github.io/reading-notes/lec08)     |
 | FUNCTIONAL PROGRAMMING                    | [OPEN](https://emam96.github.io/reading-notes/lec09)     |
+| In memory storage                         | [OPEN](https://emam96.github.io/reading-notes/lec10)     |
 
 
 &nbsp;
