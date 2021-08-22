@@ -99,6 +99,7 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 | FUNCTIONAL PROGRAMMING                    | [OPEN](https://emam96.github.io/reading-notes/lec09)     |
 | In memory storage                         | [OPEN](https://emam96.github.io/reading-notes/lec10)     |
 | Authentication                            | [OPEN](https://emam96.github.io/reading-notes/lec11)     |
+| Mongo and Mongoose                        | [OPEN](https://emam96.github.io/reading-notes/lec12)     |
 
 
 &nbsp;
