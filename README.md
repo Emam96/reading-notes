@@ -134,7 +134,7 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 |OOP                                        | [OPEN](https://emam96.github.io/reading-notes/num4)      |
 |Linked Lists                               | [OPEN](https://emam96.github.io/reading-notes/num5)      |
 |Inheritance and Interfaces                 | [OPEN](https://emam96.github.io/reading-notes/num6)      |
-
+|OO Design                                  | [OPEN](https://emam96.github.io/reading-notes/num8)      |
 
 
 
