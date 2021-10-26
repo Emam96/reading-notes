@@ -139,6 +139,7 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 |Stacks and Queues                          | [OPEN](https://emam96.github.io/reading-notes/num10)     |
 |Spring                                     | [OPEN](https://emam96.github.io/reading-notes/num11)     |
 |Spring RESTful Routing & Static Files      | [OPEN](https://emam96.github.io/reading-notes/num12)     |
+|Related Resources and Integration Testing  | [OPEN](https://emam96.github.io/reading-notes/num13)     |
 
 
 
