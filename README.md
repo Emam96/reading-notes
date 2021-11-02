@@ -143,6 +143,7 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 |Trees                                      | [OPEN](https://emam96.github.io/reading-notes/num14)     |
 |Spring Authentication                      | [OPEN](https://emam96.github.io/reading-notes/num15)     |
 |Spring Authorization                       | [OPEN](https://emam96.github.io/reading-notes/num16)     |
+|Web App Security                           | [OPEN](https://emam96.github.io/reading-notes/num17)     |
 
 
 
