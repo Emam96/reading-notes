@@ -145,6 +145,7 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 |Spring Authorization                       | [OPEN](https://emam96.github.io/reading-notes/num16)     |
 |Web App Security                           | [OPEN](https://emam96.github.io/reading-notes/num17)     |
 |Spring and Sockets                         | [OPEN](https://emam96.github.io/reading-notes/num18)     |
+|Android Fundamentals                       | [OPEN](https://emam96.github.io/reading-notes/num19)     |
 
 
 &nbsp;
