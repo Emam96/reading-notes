@@ -148,6 +148,8 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 |Android Fundamentals                       | [OPEN](https://emam96.github.io/reading-notes/num19)     |
 |Intents, Activities, and SharedPreferences | [OPEN](https://emam96.github.io/reading-notes/num20)     |
 |RecyclerView                               | [OPEN](https://emam96.github.io/reading-notes/num21)     |
+|Room                                       | [OPEN](https://emam96.github.io/reading-notes/num22)     |
+
 
 
 &nbsp;
