@@ -149,6 +149,8 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 |Intents, Activities, and SharedPreferences | [OPEN](https://emam96.github.io/reading-notes/num20)     |
 |RecyclerView                               | [OPEN](https://emam96.github.io/reading-notes/num21)     |
 |Room                                       | [OPEN](https://emam96.github.io/reading-notes/num22)     |
+|HashTables                                 | [OPEN](https://emam96.github.io/reading-notes/num23)     |
+
 
 
 
