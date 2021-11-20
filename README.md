@@ -150,6 +150,7 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 |RecyclerView                               | [OPEN](https://emam96.github.io/reading-notes/num21)     |
 |Room                                       | [OPEN](https://emam96.github.io/reading-notes/num22)     |
 |HashTables                                 | [OPEN](https://emam96.github.io/reading-notes/num23)     |
+|Espresso                                   | [OPEN](https://emam96.github.io/reading-notes/num24)     |
 
 
 
