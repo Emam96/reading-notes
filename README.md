@@ -153,7 +153,7 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 |Espresso                                   | [OPEN](https://emam96.github.io/reading-notes/num24)     |
 |Serverless and Amplify                     | [OPEN](https://emam96.github.io/reading-notes/num25)     |
 |GraphQL @connection                        | [OPEN](https://emam96.github.io/reading-notes/num26)     |
-
+|Monetization                               | [OPEN](https://emam96.github.io/reading-notes/num27)     |
 
 
 
