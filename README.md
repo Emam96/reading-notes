@@ -154,6 +154,7 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 |Serverless and Amplify                     | [OPEN](https://emam96.github.io/reading-notes/num25)     |
 |GraphQL @connection                        | [OPEN](https://emam96.github.io/reading-notes/num26)     |
 |Monetization                               | [OPEN](https://emam96.github.io/reading-notes/num27)     |
+|Graphs                                     | [OPEN](https://emam96.github.io/reading-notes/num28)     |
 
 
 
