@@ -156,6 +156,7 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 |Monetization                               | [OPEN](https://emam96.github.io/reading-notes/num27)     |
 |Graphs                                     | [OPEN](https://emam96.github.io/reading-notes/num28)     |
 |Cognito                                    | [OPEN](https://emam96.github.io/reading-notes/num29)     |
+|S3                                         | [OPEN](https://emam96.github.io/reading-notes/num30)     |
 
 
 
