@@ -8,15 +8,17 @@
 
 &nbsp;
 
-**Get to know me first!**
+
 
 &nbsp;
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f9b2e253-7a38-41eb-85a5-aeca9a4a0d90/dc10atp-0abe9d24-68bc-406a-834e-0cee997464d4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y5YjJlMjUzLTdhMzgtNDFlYi04NWE1LWFlY2E5YTRhMGQ5MFwvZGMxMGF0cC0wYWJlOWQyNC02OGJjLTQwNmEtODM0ZS0wY2VlOTk3NDY0ZDQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ELfLJEN45xmAa4hVAJC_cZO5wSlMBExyKI-RHyq67h4" width="350"  />
+<img src="https://media0.giphy.com/media/1sRwgZujM8zMexV9a8/giphy.gif?cid=6c09b952gyh0qs8u1grcj5z8iwckrn3tyf92doghgquqkn97&rid=giphy.gif&ct=s" width="500"  />
 
 &nbsp;
 
 &nbsp;
+
+## **Get to know me first!**
 
 Hey there, Just call me Emam! I'm very excited to work with you all, I got no past experience with programming so you can call me a newbie, I work with windows (latest updates of course). I'm really happy to attend this class because it feels like we are a step closer into being a professional developers, as we introduced to GitHub earlier and how to write the markdowns, and now completing with git.
 
