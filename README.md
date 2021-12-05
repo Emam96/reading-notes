@@ -162,6 +162,7 @@ Hey there, Just call me Emam! I'm very excited to work with you all, I got no pa
 |Notifications                              | [OPEN](https://emam96.github.io/reading-notes/num31)     |
 |Kinesis                                    | [OPEN](https://emam96.github.io/reading-notes/num32)     |
 |Intent Filters                             | [OPEN](https://emam96.github.io/reading-notes/num33)     |
+|Location                                   | [OPEN](https://emam96.github.io/reading-notes/num34)     |
 
 
 
